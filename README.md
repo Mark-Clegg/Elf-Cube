@@ -22,3 +22,5 @@ Plugs into a standard breadboard and connects to the backplane via a short ribbo
 
 # Software
 The Elf^3 Backplane and Processor Card has been tested with the Idiot4 monitor assembled ORG'd at 0000h, using EF4 with EFHI=0 and Q=1. Test code indicates that the IDE interface works as expected.
+
+See the WiKi for more information.
