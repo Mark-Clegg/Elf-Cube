@@ -15,7 +15,7 @@ STACK   EQU     DATA-1      ; Stack is directly under the BIOS Data Area
 
         SEG     DATA        ; Setup the BIOS Data Area segment
         ORG     DATA
-        
+
         SEG                 ; Setup the default code segment
         ORG     ORIGIN
         
