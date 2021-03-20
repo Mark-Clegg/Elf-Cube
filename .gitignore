@@ -43,4 +43,4 @@ fp-info-cache
 # KDevelop project files
 .kdev4/
 *.kdev4
-
+*.kate-swp

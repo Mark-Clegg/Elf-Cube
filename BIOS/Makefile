@@ -7,7 +7,7 @@ all:
 install:
 	#../../Linux\ Code/DMA_BootLoader/build/dma_bootloader -w BIOS.asm.bin
 	screen -X slowpaste 5
-	screen -X readreg p ~/Cosmac\ Elf/Elf\ Cube/BIOS/BIOS.idi
+	screen -X readreg p ~/Cosmac\ Elf/Elf-Cube/BIOS/BIOS.idi
 	screen -X paste p
 
 clean:
