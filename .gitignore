@@ -33,3 +33,14 @@ fp-info-cache
 *.gbrjob
 *.drl
 *.zip
+
+# Assembler output files
+*.bin
+*.hex
+*.lst
+*.idi
+
+# KDevelop project files
+.kdev4/
+*.kdev4
+
