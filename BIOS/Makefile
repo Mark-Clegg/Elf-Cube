@@ -2,6 +2,8 @@ all : BIOS.idi
 	
 .SECONDARY: BIOS.hex
 
+BIOS.hex: BIOS.asm serial.inc ide.inc
+
 %.idi : %.hex
 	~/bin/idiothex $<
 	sed -i '$$ s/;//' $@
