@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CDP1854AE
+D UART Interface IC
+F https://www.renesas.com/us/en/document/psc/e406-40-lead-dual-line-plastic-package
+$ENDCMP
+#
+$CMP MAX232AEPE+
+D MAX232AEPE+, Line Transceiver, EIA/TIA-232, RS-232, V.24, V.28 2 2 2 200 kbit/s, 4.5  5.5 V, 16-Pin PDIP
+F http://datasheets.maximintegrated.com/en/ds/MAX220-MAX249.pdf
+$ENDCMP
+#
+#End Doc Library
