@@ -1409,10 +1409,12 @@ F 3 "" H 10000 3250 50  0001 C CNN
 	1    10000 3250
 	1    0    0    -1  
 $EndComp
+NoConn ~ 8450 2200
+NoConn ~ 8450 2100
 Wire Wire Line
 	4450 5450 5450 5450
 Wire Bus Line
-	5200 4750 5200 7450
-Wire Bus Line
 	2350 4450 2350 7450
+Wire Bus Line
+	5200 4750 5200 7450
 $EndSCHEMATC
